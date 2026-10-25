@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-10-23T16:16:31Z",
+  "lastUpdated": "2026-10-25T00:00:00Z",
   "personality": {
-    "totalProfiles": 637,
+    "totalProfiles": 638,
     "pending": [],
     "done": [
       "lenin",
@@ -641,7 +641,8 @@
       "john-adams",
       "james-monroe",
       "allan-kardec",
-      "bezerra-de-menezes"
+      "bezerra-de-menezes",
+      "jean-luc-godard"
     ],
     "lastUpdated": "2026-10-05T19:27:12Z",
     "audited": 509,
