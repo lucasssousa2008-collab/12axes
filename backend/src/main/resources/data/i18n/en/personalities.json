@@ -4182,5 +4182,11 @@
     "name": "Bezerra de Menezes",
     "role": "Doctor of the Poor",
     "description": "A physician and liberal politician of the Brazilian Empire, a city councillor and deputy known as the \"Doctor of the Poor\", he embraced Spiritism in 1886 and presided over the Brazilian Spiritist Federation, making charity and Kardec's doctrine its foundation in Brazil."
+  },
+  {
+    "id": "jean-luc-godard",
+    "name": "Jean-Luc Godard",
+    "role": "French filmmaker and critic",
+    "description": "French-Swiss filmmaker of the French New Wave, Godard transformed cinematic language and, after 1968, moved closer to Marxism and Maoism, making political films with the Dziga Vertov Group."
   }
 ]
