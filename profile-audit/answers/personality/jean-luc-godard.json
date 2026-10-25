@@ -298,5 +298,12 @@
       "tecnologia_14": "C",
       "tecnologia_11": "CT"
     }
+  },
+  "archetype": {
+    "sociedade": "D",
+    "poder": "A",
+    "economia": "A",
+    "mundo": "E",
+    "tecnologia": "C"
   }
 }
