@@ -9033,5 +9033,18 @@
     "religions": [
       "other"
     ]
+  },
+  {
+    "id": "jean-luc-godard",
+    "name": "Jean-Luc Godard",
+    "role": "Cineasta e crítico francês",
+    "category": "intelectual",
+    "lifespan": "1930–2022",
+    "description": "Cineasta franco-suíço da Nouvelle Vague, Godard revolucionou a linguagem cinematográfica e, após 1968, aproximou-se do marxismo e do maoísmo, realizando filmes políticos com o Grupo Dziga Vertov.",
+    "imagePath": "/personalities/portraits/jean-luc-godard.jpg",
+    "imageSourceName": "",
+    "imageSourceUrl": "",
+    "imageNote": "",
+    "religions": []
   }
 ]
